@@ -1,6 +1,6 @@
 # Site
-title:              About Udara Madubhashana
-bio:                'Designer & Developer'
+title:              Udara Madubhashana
+bio:                'Designer, Developer & Geek'
 description:        "A TALENTED FREELANCER LOCATED IN OUR LOVELY EARTH"
 reading_time:       true
 words_per_minute:   200
@@ -29,26 +29,26 @@ disqus_shortname:   taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
+google:
+  plus:            +UdaraMadubhashana
   #analytics:
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github:             username
+twitter:            @UdaraU3
+#facebook:           username
+github:             @Udara-U3
 #stackoverflow:      123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:           username
+linkedin:           udaray
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:             username
 #tumblr:             username
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:            username
 #soundcloud:        username
