@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/udara
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://udara-u3.github.io
+  * I am udara (https://keybase.io/udara) on keybase.
+  * I have a public key ASDkJckOrN4FSfRf2KcGtojEF7owExUgsBpOlQ3Mzi63ywo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120e425c90eacde0549f45fd8a706b688c417ba30131520b01a4e950dccce2eb7cb0a",
+            "host": "keybase.io",
+            "kid": "0120e425c90eacde0549f45fd8a706b688c417ba30131520b01a4e950dccce2eb7cb0a",
+            "uid": "1074e0d99e67269f02c5023006ef5319",
+            "username": "udara"
+        },
+        "service": {
+            "hostname": "udara-u3.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1472618595,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1472618434,
+        "hash": "1be065c043621bfa00370bcefa459e3bd0600618ba054e0f7ba1690834d4916338f83567362a3a97f68314a21687ce73a0d59a9a52a836ae2126cbcd1a584866",
+        "seqno": 611061
+    },
+    "prev": "5302c150fbb1d688add9b4bec04552acd450e79fc87ea6a3540a901c2d857be4",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg5CXJDqzeBUn0X9inBraIxBe6MBMVILAaTpUNzM4ut8sKp3BheWxvYWTFAvh7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZTQyNWM5MGVhY2RlMDU0OWY0NWZkOGE3MDZiNjg4YzQxN2JhMzAxMzE1MjBiMDFhNGU5NTBkY2NjZTJlYjdjYjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZTQyNWM5MGVhY2RlMDU0OWY0NWZkOGE3MDZiNjg4YzQxN2JhMzAxMzE1MjBiMDFhNGU5NTBkY2NjZTJlYjdjYjBhIiwidWlkIjoiMTA3NGUwZDk5ZTY3MjY5ZjAyYzUwMjMwMDZlZjUzMTkiLCJ1c2VybmFtZSI6InVkYXJhIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ1ZGFyYS11My5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNyJ9LCJjdGltZSI6MTQ3MjYxODU5NSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDcyNjE4NDM0LCJoYXNoIjoiMWJlMDY1YzA0MzYyMWJmYTAwMzcwYmNlZmE0NTllM2JkMDYwMDYxOGJhMDU0ZTBmN2JhMTY5MDgzNGQ0OTE2MzM4ZjgzNTY3MzYyYTNhOTdmNjgzMTRhMjE2ODdjZTczYTBkNTlhOWE1MmE4MzZhZTIxMjZjYmNkMWE1ODQ4NjYiLCJzZXFubyI6NjExMDYxfSwicHJldiI6IjUzMDJjMTUwZmJiMWQ2ODhhZGQ5YjRiZWMwNDU1MmFjZDQ1MGU3OWZjODdlYTZhMzU0MGE5MDFjMmQ4NTdiZTQiLCJzZXFubyI6MTIsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAx5WsFdIvD//1n9rtRTNLwOa7LnWlMMuJ6KepjXveHxPcoKhsNbjA7bMkhTm5DRup/Y1yDfHE7wt7DMcsDK4sA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINLwo+7QKJHmRRjzGWS6Bk7HahnWyphkydR4DRlTBQkIo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/udara
+
+==================================================================
