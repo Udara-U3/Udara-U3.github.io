@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
+
   <url>
-    <loc>https://uD4ra.github.io/contact/</loc>
+    <loc>https://udara.ml/contact/</loc>
     <lastmod>2019-12-13T12:14:34+06:00</lastmod>
   </url>
-  
+
   <url>
-    <loc>https://uD4ra.github.io/portfolio/</loc>
+    <loc>https://udara.ml/portfolio/</loc>
     <lastmod>2019-12-13T12:14:34+06:00</lastmod>
   </url>
-  
+
   <url>
-    <loc>https://uD4ra.github.io/about/</loc>
+    <loc>https://udara.ml/about/</loc>
     <lastmod>2019-10-13T12:14:34+06:00</lastmod>
   </url>
-  
+
   <url>
-    <loc>https://uD4ra.github.io/categories/</loc>
+    <loc>https://udara.ml/categories/</loc>
   </url>
-  
+
   <url>
-    <loc>https://uD4ra.github.io/tags/</loc>
+    <loc>https://udara.ml/tags/</loc>
   </url>
-  
+
   <url>
-    <loc>https://uD4ra.github.io/</loc>
+    <loc>https://udara.ml/</loc>
   </url>
-  
+
 </urlset>
