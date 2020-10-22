@@ -2,3 +2,6 @@ User-agent: Googlebot-Image
 Disallow: /
 
 Sitemap: https://udara.ml/sitemap.xml
+
+User-agent: *
+Disallow: /images/
