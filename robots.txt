@@ -5,7 +5,3 @@ Sitemap: https://udara.ml/sitemap.xml
 
 User-agent: *
 Disallow: /images/
-Disallow: *.jpg
-Disallow: *.png
-Disallow: *.svg
-Disallow: *.ico
