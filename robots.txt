@@ -5,3 +5,4 @@ Sitemap: https://udara.ml/sitemap.xml
 
 User-agent: *
 Disallow: /images/
+Disallow: /images/about/udara_madubhashana.jpg
