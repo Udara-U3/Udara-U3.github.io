@@ -4,7 +4,7 @@ https://keybase.io/udara
 
 I hereby claim:
 
-  * I am an admin of https://udara.ml
+  * I am an admin of https://udara.me
   * I am udara (https://keybase.io/udara) on keybase.
   * I have a public key ASDAv9zxTB5VlGxPiILi2GgEmYpSkcaTtAC7sUcYxCgoXgo
 
