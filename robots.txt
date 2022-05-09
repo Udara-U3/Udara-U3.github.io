@@ -1,7 +1,7 @@
 User-agent: Googlebot-Image
 Disallow: /
 
-Sitemap: https://udara.ml/sitemap.xml
+Sitemap: https://udara.me/sitemap.xml
 
 User-agent: *
 Disallow: /images/
