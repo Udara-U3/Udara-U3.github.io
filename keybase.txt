@@ -20,14 +20,14 @@ To do so, I am signing this object:
       "username": "udara"
     },
     "merkle_root": {
-      "ctime": 1581239657,
-      "hash": "1c8dad6796d2917136ff1c55707588614f63833bf6ae0c4a29d73f298be58e18ec5fc1ac96d7de20250f3e144242cd314a8b6f94c96fa41efd54ebab0500c840",
-      "hash_meta": "b6ccaec2dfb925b5c3979114d9b30e926cefdbdda5826feffeba5fbe4df21292",
-      "seqno": 14541435
+      "ctime": 1652079047,
+      "hash": "e37f388ea8ce863af75d5c246ea25733391d63f2e29303bd0a5fcb062d30e118946466c9dc0a9b64a13ce75d12d31b3aefc83d5b2123e9eec75a28cb18a923dc",
+      "hash_meta": "a42afc760f291d1678ab88ec396fd8ad126bb4d2b5c1e887f2f8455271ee1f91",
+      "seqno": 22446528
     },
     "service": {
-      "entropy": "OmwaSqJ16j7HgVourlDI7tbY",
-      "hostname": "udara.ml",
+      "entropy": "i0dveO8EIv2ZEmt3Inb7rEee",
+      "hostname": "udara.me",
       "protocol": "https:"
     },
     "type": "web_service_binding",
@@ -35,18 +35,18 @@ To do so, I am signing this object:
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "5.2.0"
+    "version": "5.9.0"
   },
-  "ctime": 1581239683,
+  "ctime": 1652079106,
   "expire_in": 504576000,
-  "prev": "bbf975b94d3e3e888ed7c0b745f56685ed0ca30771c3a28b57b57786f1e1c47d",
-  "seqno": 62,
+  "prev": "7e7abb00ca89dada09bfad5f5c452fa3b285a06f6a10f174fb01bf8a12daf0d3",
+  "seqno": 69,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwL/c8UweVZRsT4iC4thoBJmKUpHGk7QAu7FHGMQoKF4Kp3BheWxvYWTESpcCPsQgu/l1uU0+PoiO18C3RfVmhe0Mowdxw6KLV7V3hvHhxH3EIOxzNPnIA6x2KpmA6AO0sgP1c3p2vfCoK1HFjf/MurodAgHCo3NpZ8RAW8k/k1tWtbAFDQ75v472AZWgL0SHGtxAxFVRK4tOvhMBmCXTCp2dIWb3bwxX0L4AEYf8F4TNn/raMolpHczLD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHfZJ+HDvmtpksKsyB4t1Wd6R2fIGlELcHFNSVF5eWjko3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwL/c8UweVZRsT4iC4thoBJmKUpHGk7QAu7FHGMQoKF4Kp3BheWxvYWTESpcCRcQgfnq7AMqJ2toJv61fXEUvo7KFoG9qEPF0+wG/ihLa8NPEIKQh6cLC447itXDd9czAbIwcdGDy8wawEIcrLWjn52T4AgHCo3NpZ8RASDdzVRBIESHPHkaV8r652JQNUiGAIMYEmG9FvmPBlaL16usjlWw2ifaBkYfFi3q7Hmi/ArOPcd29sO7l0eSqBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEPo8ISmoNriU9UJXn62yz0VxQwqc1mss+37oYkU8c7fo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
