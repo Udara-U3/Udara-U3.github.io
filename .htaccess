@@ -12,3 +12,5 @@ AddOutputFilterByType DEFLATE image/gif
 AddOutputFilterByType DEFLATE image/jpeg
 AddOutputFilterByType DEFLATE image/svg+xml
 </IfModule>
+
+Header always append X-Frame-Options SAMEORIGIN
